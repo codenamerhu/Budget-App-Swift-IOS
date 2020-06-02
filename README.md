@@ -11,5 +11,9 @@
   <li>Xcode 10.0</li>
 </ul>
 
+<hr>
 
+Project uses custom NS classes for Autolayouts and constaints to adjust based on each IOS device<br><br>
+
+Also features a custom Tab bar
 
